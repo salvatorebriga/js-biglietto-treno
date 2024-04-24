@@ -16,7 +16,7 @@ Stabilire e comunicare chi ha vinto secondo le regole di pari o dispari.
 
 - definisco una variabile che ci dice se il valore totaleNumero è pari o dispari //risultatoPariDispari
 
--SE (risultatoPariDispari === 0 (pari) && SceltaUtentePariDispari === 'pari'){
+-SE (risultatoPariDispari === 0 (pari) && SceltaUtentePariDispari === 'pari')
 vince utente
 ELSE SE (risultatoPariDispari !== 0 (dispari) && SceltaUtentePariDispari === 'dispari')
 vince utente
