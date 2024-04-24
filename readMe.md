@@ -1,0 +1,5 @@
+- Dichiarare e chiedere l'input della variabile che contiene i kilometri
+- Dichiarare e chiedere l'input della variabile che contiene l'età del passeggero
+- calcolare il prezzo totale del viaggio
+- applicare gli sconti del 20 e 40 per cento
+- esprimere il risultato in centesimi
