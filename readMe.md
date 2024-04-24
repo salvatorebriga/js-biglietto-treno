@@ -1,3 +1,4 @@
+- Fissare il prezzo al kilometro
 - Dichiarare e chiedere l'input della variabile che contiene i kilometri
 - Dichiarare e chiedere l'input della variabile che contiene l'età del passeggero
 - calcolare il prezzo totale del viaggio
